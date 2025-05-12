@@ -3,8 +3,8 @@ name: FastAPI CI
 on:
   push:
     branches:
-      -main
-      -ika
+      - main
+      - ika
 
 jobs:
   build:
